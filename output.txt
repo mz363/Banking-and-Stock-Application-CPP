@@ -1,0 +1,184 @@
+Welcome to the Account Manement System.
+Please select an account to access
+	1. Stock Portfolio Account
+	2. Bank Account
+	3. Exit
+Your Selection:	1
+
+Please select an option
+	1. Display current price for a stock symbol
+	2. Buy stock
+	3. Sell stock
+	4. Display current portfolio
+	5. Display transactions history
+	6. Return to main menu
+Your Selection:	1
+
+Enter stock symbol for checking price: VNET
+
+VNET    21Vianet Group Inc. ADR   5.55    19:30:4
+
+Please select an option
+	1. Display current price for a stock symbol
+	2. Buy stock
+	3. Sell stock
+	4. Display current portfolio
+	5. Display transactions history
+	6. Return to main menu
+Your Selection:	2
+
+Enter buy options: VNET 100 5.70
+
+Please select an option
+	1. Display current price for a stock symbol
+	2. Buy stock
+	3. Sell stock
+	4. Display current portfolio
+	5. Display transactions history
+	6. Return to main menu
+Your Selection:	4
+
+Cash balance = $9430
+
+Symbol  Company                 Number  Price   Total
+VNET    21Vianet Group Inc. ADR 100     5.65    565.00
+
+Total portfolio value: $9995.00
+
+Please select an option
+	1. Display current price for a stock symbol
+	2. Buy stock
+	3. Sell stock
+	4. Display current portfolio
+	5. Display transactions history
+	6. Return to main menu
+Your Selection:	3
+
+Enter selling options: VNET 20 5.75
+
+Please select an option
+	1. Display current price for a stock symbol
+	2. Buy stock
+	3. Sell stock
+	4. Display current portfolio
+	5. Display transactions history
+	6. Return to main menu
+Your Selection:	4
+
+Cash balance = $9545.00
+
+Symbol  Company                 Number  Price   Total
+VNET    21Vianet Group Inc. ADR 80      5.87    469.60
+
+Total portfolio value: $10014.60
+
+Please select an option
+	1. Display current price for a stock symbol
+	2. Buy stock
+	3. Sell stock
+	4. Display current portfolio
+	5. Display transactions history
+	6. Return to main menu
+Your Selection:	5
+
+Action      Symbol      Shares      Price      Time
+Buy         VNET        100         5.70       19:30:4
+Sell        VNET        20          5.75       19:30:4
+
+Please select an option
+	1. Display current price for a stock symbol
+	2. Buy stock
+	3. Sell stock
+	4. Display current portfolio
+	5. Display transactions history
+	6. Return to main menu
+Your Selection:	6
+
+Welcome to the Account Manement System.
+Please select an account to access
+	1. Stock Portfolio Account
+	2. Bank Account
+	3. Exit
+Your Selection:	2
+
+Please select an option
+	1. View account balance
+	2. Deposit money
+	3. Withdraw money
+	4. Display transactions history
+	5. Return to previous menu
+Your Selection:	1
+
+Cash balance = $9545.00
+
+Symbol  Company                 Number  Price   Total
+VNET    21Vianet Group Inc. ADR 80      5.87    469.60
+
+Total portfolio value: $10014.60
+
+Please select an option
+	1. View account balance
+	2. Deposit money
+	3. Withdraw money
+	4. Display transactions history
+	5. Return to previous menu
+Your Selection:	2
+
+Deposit amount: 550
+
+Deposit $550.00 to bank account
+
+Cash balance = $10095.00
+
+Symbol  Company                 Number  Price   Total
+VNET    21Vianet Group Inc. ADR 80      5.87    469.60
+
+Total portfolio value: $10564.60
+
+Please select an option
+	1. View account balance
+	2. Deposit money
+	3. Withdraw money
+	4. Display transactions history
+	5. Return to previous menu
+Your Selection:	3
+
+Withdraw amount: 220.36
+
+Withdraw $220.36 to bank account
+
+Cash balance = $9874.64
+
+Symbol  Company                 Number  Price   Total
+VNET    21Vianet Group Inc. ADR 80      5.87    469.60
+
+Total portfolio value: $10344.24
+
+Please select an option
+	1. View account balance
+	2. Deposit money
+	3. Withdraw money
+	4. Display transactions history
+	5. Return to previous menu
+Your Selection:	4
+
+Action    Amount    Cash Balance    Date          Time
+Deposit   550       10095           5/9/2017      19:30:4
+Withdraw  220.36    9874.64         5/9/2017      19:30:4
+
+Please select an option
+	1. View account balance
+	2. Deposit money
+	3. Withdraw money
+	4. Display transactions history
+	5. Return to previous menu
+Your Selection:	5
+
+Welcome to the Account Manement System.
+Please select an account to access
+	1. Stock Portfolio Account
+	2. Bank Account
+	3. Exit
+Your Selection:	3
+
+Program Terminated.
